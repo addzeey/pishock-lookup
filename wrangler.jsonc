@@ -1,0 +1,6 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "peakshock-pishock-id-lookup",
+  "main": "src/index.js",
+  "compatibility_date": "2026-04-09"
+}
